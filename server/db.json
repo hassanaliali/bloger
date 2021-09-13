@@ -1,0 +1,537 @@
+{
+  "posts": [
+    {
+      "userId": "11",
+      "title": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+      "date": "10:16:08 AM",
+      "body": "asperiores sunt ab assumenda cumque modi velit\nqui esse omnis \nvoluptate et fuga perferendis voluptas\nillo ratione amet aut et omnis",
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "date": "10:24:44 PM",
+      "genre": 2,
+      "id": 37
+    },
+    {
+      "userId": 10,
+      "title": "😎🤳",
+      "date": "9:20:31 AM",
+      "genre": 3,
+      "body": "🎶",
+      "id": 38
+    },
+    {
+      "userId": 10,
+      "title": "Monday Post ",
+      "date": "10:29:26 AM",
+      "genre": 4,
+      "body": "Empty Post😶😶",
+      "id": 43
+    },
+    {
+      "userId": 10,
+      "title": "the Thursday Post ",
+      "date": "11:13:51 AM",
+      "genre": 5,
+      "body": "It also Empty Post",
+      "id": 44
+    },
+    {
+      "userId": 10,
+      "title": "F4 F4 F4 F4 ",
+      "date": "1:30:36 PM",
+      "genre": 6,
+      "body": "qqqqqqq\n",
+      "id": 45
+    },
+    {
+      "userId": "8",
+      "title": "emptyzzzzzzzzzzzz",
+      "date": "12:41:03 PM",
+      "genre": 3,
+      "body": "empty ",
+      "id": 46
+    },
+    {
+      "userId": 8,
+      "title": "هناء محرز",
+      "date": "10:23:29 PM",
+      "genre": 2,
+      "body": "مهندسة بالدراسات الهندسية",
+      "id": 47
+    },
+    {
+      "userId": 8,
+      "title": "hhhhhhhhhhhhh",
+      "date": "5:42:40 PM",
+      "genre": 3,
+      "body": "ttttttttttttttttt",
+      "id": 48
+    },
+    {
+      "userId": 8,
+      "title": "vvvvvvvvvvvv",
+      "date": "6:14:18 PM",
+      "genre": 2,
+      "body": "ddddddddddddd",
+      "id": 49
+    },
+    {
+      "userId": 8,
+      "title": "wedwe",
+      "date": "11:42:19 AM",
+      "genre": 4,
+      "body": "sssssssssss",
+      "id": 50
+    },
+    {
+      "userId": 10,
+      "title": "hello ",
+      "date": "10:41:56 PM",
+      "genre": 5,
+      "body": "im george \nrrrrrrrrrrrrrrddddddddddddddddd",
+      "id": 52
+    },
+    {
+      "userId": 10,
+      "title": "غغغ",
+      "date": "11:10:40 AM",
+      "genre": 6,
+      "body": "888888888888888",
+      "id": 53
+    },
+    {
+      "userId": 10,
+      "title": "xxx",
+      "date": "8:34:22 PM",
+      "genre": 2,
+      "body": "ssssssssswwwwwwwwwwwwwwwwww",
+      "id": 55
+    },
+    {
+      "userId": "11",
+      "title": "old blog",
+      "date": "11:43:18 PM",
+      "genre": 6,
+      "body": "The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with HTML or computer\nprogramming. Previously, a knowledge of such technologies as HTML and File Transfer Protocol had been required to publish content on the Web, and early Web users therefore tended to be hackers and computer enthusiasts. In the 2010s, the majority are interactive Web 2.0 websites, allowing visitors to leave online comments, and it is this interactivity that distinguishes them from other static websites.[2] In that sense, blogging can be seen as a form of social networking service. Indeed, bloggers not only produce content to post on their blogs but also often build social relations with their readers and other bloggers.[3] However, there are high-readership blogs which do not allow comments.\n\nMany blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. A typical blog combines text, digital images, and links to other blogs, web pages, and other media related to its topic. The ability of readers to leave publicly viewable comments, and interact with other commenters, is an important contribution to the popularity of many blogs. However, blog owners or authors often moderate and filter online comments to remove hate speech or other offensive content. Most blogs are primarily textual, although some focus on art (art blogs), photographs (photoblogs), videos (video blogs or \"vlogs\"), music (MP3 blogs), and audio (podcasts). In education, blogs can be used as instructional resources; these are referred to as edublogs. Microblogging is another type of blogging, featuring very short posts.\n\n'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.\n\nOn February 16, 2011, there were over 156 million public blogs in existence. On February 20, 2014, there were around 172 million Tumblr[4] and 75.8 million WordPress[5] blogs in existence worldwide. According to critics and other bloggers, Blogger is the most popular blogging service used today. However, Blogger does not offer public statistics.[6][7] Technorati lists 1.3 million blogs as of February 22, 2014.[8]",
+      "id": 57
+    },
+    {
+      "userId": "11",
+      "title": "بب",
+      "date": "12:14:10 PM",
+      "body": "ييبيب",
+      "id": 58
+    }
+  ],
+  "comments": [
+    {
+      "postId": 9,
+      "userid": 11,
+      "id": 41,
+      "email": "Lucio@gladys.tv",
+      "body": "facere repudiandae vitae ea aut sed quo ut etfacer"
+    },
+    {
+      "postId": 9,
+      "userid": 8,
+      "id": 42,
+      "email": "Shemar@ewell.name",
+      "body": "aut culpa quaerat veritatis eos debitisaut repellat eius explicabo etofficiis quo sint at magni ratione et iureincidunt quo sequi quia dolorum beatae qui"
+    },
+    {
+      "postId": 9,
+      "userid": 8,
+      "id": 44,
+      "email": "Marianna_Wilkinson@rupert.io",
+      "body": "qui sunt commodi\nsint vel optio vitae quis qui non distinctio\nid quasi modi dicta\neos nihil sit inventore est numquam officiis"
+    },
+    {
+      "postId": 9,
+      "userid": 8,
+      "id": 45,
+      "email": "Marcia@name.biz",
+      "body": "ipsum odio harum voluptatem sunt cumque et dolores\nnihil laboriosam neque commodi qui est\nquos numquam voluptatum\ncorporis quo in vitae similique cumque tempore"
+    },
+    {
+      "postId": 38,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "what are you doing",
+      "id": 507
+    },
+    {
+      "postId": 38,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "🍕🍕🌚",
+      "id": 512
+    },
+    {
+      "postId": 43,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "Empty Comment",
+      "id": 513
+    },
+    {
+      "postId": 44,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "😁😁",
+      "id": 516
+    },
+    {
+      "postId": 44,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "there is a big problem in reusable components  ",
+      "id": 522
+    },
+    {
+      "postId": 45,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "p",
+      "id": 523
+    },
+    {
+      "postId": 38,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ssssssssssssccccccccccccccccccc",
+      "id": 524
+    },
+    {
+      "postId": 48,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "aaaaaaaaaaaa",
+      "id": 526
+    },
+    {
+      "postId": 48,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "sdasd",
+      "id": 527
+    },
+    {
+      "postId": 48,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "vvvvvvvvvvvvvvv",
+      "id": 528
+    },
+    {
+      "postId": 49,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "vvvvvvvvvvvvvvvvvvvvvvvvv",
+      "id": 529
+    },
+    {
+      "postId": 49,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "aaaaaaaaaaaaa",
+      "id": 530
+    },
+    {
+      "postId": 49,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ssssssssssss",
+      "id": 531
+    },
+    {
+      "postId": 49,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ssssss",
+      "id": 532
+    },
+    {
+      "postId": 50,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "dddddddddd",
+      "id": 533
+    },
+    {
+      "postId": 52,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "i'm also george",
+      "id": 535
+    },
+    {
+      "postId": 50,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "sssssssss",
+      "id": 536
+    },
+    {
+      "postId": 49,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "george",
+      "id": 537
+    },
+    {
+      "postId": 47,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ssssssssssss",
+      "id": 538
+    },
+    {
+      "postId": 48,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "reerereerer",
+      "id": 548
+    },
+    {
+      "postId": 52,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "65",
+      "id": 549
+    },
+    {
+      "postId": 46,
+      "userid": 8,
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "66666666666666",
+      "id": 550
+    },
+    {
+      "postId": 37,
+      "userid": "11",
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "999999",
+      "id": 551
+    },
+    {
+      "postId": 38,
+      "userid": "11",
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "🐬🐬🐬🐬",
+      "id": 552
+    },
+    {
+      "postId": 57,
+      "userid": "11",
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ddddddddhhhhhh",
+      "id": 553
+    },
+    {
+      "postId": 37,
+      "userid": "11",
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "hello from any where i want to tell you you are a good person and the other people want tell you that anymore so you should recognize that in your selfie   ",
+      "id": 554
+    },
+    {
+      "postId": 38,
+      "userid": "11",
+      "email": "hassan.ali.92.zz.h@gmail.com",
+      "body": "ssssssssssss",
+      "id": 555
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "george.bluth@reqres.in",
+      "first_name": "George",
+      "last_name": "Bluth",
+      "avatar": "https://reqres.in/img/faces/1-image.jpg"
+    },
+    {
+      "id": 2,
+      "email": "janet.weaver@reqres.in",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    {
+      "id": 3,
+      "email": "emma.wong@reqres.in",
+      "first_name": "Emma",
+      "last_name": "Wong",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    {
+      "id": 4,
+      "email": "eve.holt@reqres.in",
+      "first_name": "Eve Holt",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg"
+    },
+    {
+      "id": 5,
+      "email": "charles.morris@reqres.in",
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+    {
+      "id": 6,
+      "email": "tracey.ramos@reqres.in",
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "https://reqres.in/img/faces/6-image.jpg"
+    },
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "type": "user",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "type": "user",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "type": "admin",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "type": "user",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "type": "user",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "type": "user",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    }
+  ],
+  "permeations": [
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": true,
+      "name": "George Bluth",
+      "id": 1
+    },
+    {
+      "type": "user",
+      "postEdit": true,
+      "commentEdit": true,
+      "name": "Janet Weaver",
+      "id": 2
+    },
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": false,
+      "name": "Emma Wong",
+      "id": 3
+    },
+    {
+      "type": "user",
+      "postEdit": true,
+      "commentEdit": false,
+      "name": "Eve Holt",
+      "id": 4
+    },
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": true,
+      "name": "Charles Morris",
+      "id": 5
+    },
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": true,
+      "name": "Tracey Ramos",
+      "id": 7
+    },
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": false,
+      "name": "Michael Lawson",
+      "id": 8
+    },
+    {
+      "type": "user",
+      "postEdit": true,
+      "commentEdit": true,
+      "name": "Tobias Funke",
+      "id": 9
+    },
+    {
+      "type": "user",
+      "postEdit": false,
+      "commentEdit": true,
+      "name": "Byron Fields",
+      "id": 10
+    },
+    {
+      "type": "user",
+      "postEdit": true,
+      "commentEdit": false,
+      "name": "George Edwards",
+      "id": 11
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "sience"
+    },
+    {
+      "id": 2,
+      "name": "history"
+    },
+    {
+      "id": 3,
+      "name": "math"
+    },
+    {
+      "id": 4,
+      "name": "computer"
+    },
+    {
+      "id": 5,
+      "name": "sport"
+    },
+    {
+      "id": 6,
+      "name": "drama"
+    }
+  ]
+}
